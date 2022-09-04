@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap");
+.body {
+  background-image: url("../images/mobile-bg.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+.body .card {
+  margin-top: 5%;
+  margin-bottom: 5%;
+  border-radius: 15px;
+  width: 90%;
+  height: 90vh;
+}
+.body .card .card-body img {
+  width: 100px;
+  height: 20px;
+}
+.body .card .card-body h3 {
+  margin-top: 8px;
+  color: #317B13;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 900;
+  font-size: 30px;
+}
+.body .card .card-body p {
+  width: 80%;
+  font-size: 14px;
+  color: black;
+  font-weight: 500;
+}
+.body .card .bottom {
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+}/*# sourceMappingURL=styles.css.map */
